@@ -1,0 +1,16 @@
+header {
+    background-color: #e9c430;
+    color: rgba(255, 255, 255, 0.947);
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav a {
+    margin: 0 15px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }

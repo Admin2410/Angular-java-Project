@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+nav {
+    background-color: #964caf;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav a {
+    color: rgb(251, 73, 73);
+    margin: 0 15px;
+    text-decoration: none;
+  }
+  
+  nav a.active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  

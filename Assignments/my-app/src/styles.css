@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+main {
+    margin-top: 20px;
+    min-height: calc(100vh - 140px); /* Adjust based on header/footer height */
+    padding-bottom: 60px; /* Prevent content from being covered by the fixed footer */
+  }
